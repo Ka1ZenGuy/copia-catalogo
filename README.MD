@@ -16,4 +16,4 @@ Clona éste proyecto en local (con la consola o VS Code) y ¡empieza a trabajar!
 * Puede ser interesante mirar las fuentes **Montserrat** y **Open Sans**.
 * Lo ideal es no ir nunca a la web de PC Componentes, que robar es muy tentador.
 
-![](./recursos/screenshot.png)
+![](./recursos/screenshot.png)# EjWebClase
