@@ -4,14 +4,25 @@
     padding: center;
 
 }
-body{
+h1{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto Mono', monospace;
 }
-{
+body{
     
 font-family: 'Open Sans', sans-serif;
 font-family: 'Oswald', sans-serif;
 font-family: 'Roboto Mono', monospace;
+}
+.categoriasrelevantes
+{
+    vertical-align: middle;
+    background size: cover;
+    
+}
+.categoriasrelevantes{
+    width: 100% 
+    max-width: 217px
+    background-color: 
 }
