@@ -15,14 +15,24 @@ font-family: 'Open Sans', sans-serif;
 font-family: 'Oswald', sans-serif;
 font-family: 'Roboto Mono', monospace;
 }
-.categoriasrelevantes
-{
-    vertical-align: middle;
-    background size: cover;
+.PcCom{
+    box-sizing: border-box;
+
+}
+.PcCom{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.PcCom{
+    border: 1px solid gray ;
+    width: 25% ;
+    text-align: center;
     
 }
-.categoriasrelevantes{
-    width: 100% 
-    max-width: 217px
-    background-color: 
+.PcCom img{
+    width: 100%;
+    height: auto;
 }
+
