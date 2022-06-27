@@ -57,7 +57,37 @@ ul li{
 {
     margin: 10px;
     border: 1px solid black;
-    padding: 10px  10px 10px 10px;
+    padding: 0px 0px 0px 33%;
+    
 }
 
+.articulosrecomendados
+{
+    display: flex;
+    box-sizing: border-box ;
+    border: 1px solid gray;
+    padding-bottom: 50px;
+    font-display: bottom ;
+    font-size: 105x;
+    list-style-type: none;
+    
+
+
+}
+.articulo1
+{
+border: 1px solid black;
+}
+.articulo2
+{
+    border: 1px solid black
+}
+.articulo3
+{
+    border: 1px solid black
+}
+.articulo4
+{
+    border: 1px solid black
+}
 
