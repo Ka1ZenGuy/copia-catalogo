@@ -1,4 +1,18 @@
-.botonera{
+
+.botonera1 
+{
+    display: grid; 
+    border: 1px solid gray ;
+    box-sizing: border-box;
+    padding: 10px 10px 20px 10px; 
+    margin: 10%;
+    list-style-type: none;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.botonera2
+{
     display: flex; 
     border: 1px solid gray ;
     box-sizing: border-box;
@@ -7,6 +21,29 @@
     list-style-type: none;
     justify-content: space-between;
 
+}
+.botonera3
+{
+    display: flex; 
+    border: 1px solid gray ;
+    box-sizing: border-box;
+    padding: 10px 10px 20px 10px; 
+    margin: 10%;
+    list-style-type: none;
+    justify-content: space-between;
+
+}
+.botonera4
+{
+    display: flex; 
+    flex-wrap: wrap;
+    border: 1px solid gray ;
+    box-sizing: border-box;
+    padding: 10px 10px 20px 10px; 
+    margin: 10%;
+    list-style-type: none;
+    justify-content: space-between;
+    
 }
 h1{
     font-family: 'Montserrat', sans-serif;
@@ -96,10 +133,9 @@ text-align: center;
     text-align: center;
 }
 .teinteresa{
-    position: calc(100% /4 );
     display: flex;
     box-sizing: border-box ;
-
+    flex-wrap: calc(100% / 4);
     padding-bottom: 50px;
     font-display: bottom ;
     font-size: 105x;
